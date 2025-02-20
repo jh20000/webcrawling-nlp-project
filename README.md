@@ -66,21 +66,13 @@
 
 ### 1. **Word Cloud 분석 예시**
 
-**1.1 '목사' 키워드 Word Cloud**
 
-
-<img src="https://github.com/user-attachments/assets/88c5b9de-ceed-407b-8792-5347b128cde5" style="width: 50%; height: auto;">
-
-**1.2 '수녀님' 키워드 Word Cloud**
-
-
-<img src="https://github.com/user-attachments/assets/77a65d47-1423-4c44-8898-095880f091bf" style="width: 50%; height: auto;">
 
 
 ---
 
 
-### **2. 종교별 Word Cloud 분석**
+### **종교별 Word Cloud 분석**
 
 
 
@@ -96,7 +88,7 @@
 
 
 
-**2.1 기독교 Word Cloud**
+**기독교 Word Cloud**
 
 
 
@@ -108,7 +100,7 @@
 
 
 
-**2.2 불교 Word Cloud**
+**불교 Word Cloud**
 
 
 
@@ -118,7 +110,7 @@
     <img src="https://github.com/user-attachments/assets/a2e0ef80-06aa-48f4-9fb9-14b9c95dcbdc" style="width: 48%;">
 </div>
 
-**2.3 천주교 Word Cloud**
+**천주교 Word Cloud**
 
 
 
