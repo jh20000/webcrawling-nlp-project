@@ -1,7 +1,8 @@
 # 🌐 Web Crawling & NLP Analysis
 
+📎 [자세한 분석 내용 보기 (Notion 링크)]( https://vanilla-argon-6c3.notion.site/Webscraping-and-NLP-analysis-19283f92ac808096bf0eebfc7ceb2395?source=copy_link)
 
-
+> 이 프로젝트는 뉴스 데이터 크롤링과 NLP 분석을 통해, 기독교·불교·천주교가 미디어에서 어떻게 다뤄지는지를 비교하고 종교별 담론의 차이를 분석한 프로젝트입니다.
 ## 목표
 
 **한국의 주요 종교(기독교, 불교, 천주교)에 대한 뉴스 데이터를 수집·분석하여 각 종교가 뉴스에서 어떻게 다뤄지는지를 비교**
